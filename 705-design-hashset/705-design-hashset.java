@@ -1,20 +1,23 @@
 class MyHashSet {
 
-    int arr[];
+    // int arr[];
+    BitSet bs;
     public MyHashSet() {
-        arr = new int[1000001];
+        // arr = new int[1000001];
+        bs = new BitSet();
     }
     
     public void add(int key) {
-        arr[key] = 1;
+        // arr[key] = 1;
+        bs.set(key);
     }
     
     public void remove(int key) {
-        arr[key] = 0;
+        bs.clear(key);
     }
     
     public boolean contains(int key) {
-        return arr[key] == 1;
+        return bs.get(key);
     }
 }
 
