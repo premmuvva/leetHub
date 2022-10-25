@@ -6,6 +6,6 @@ class Solution {
         for (String i : word2) s2.append(i);
         // System.out.println(s1);
         // System.out.println(s2);
-        return s1.compareTo(s2) == 0;
+        return (s1.toString()).equals(s2.toString());
     }
 }
