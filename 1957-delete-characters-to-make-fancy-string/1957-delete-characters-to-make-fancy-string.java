@@ -6,7 +6,8 @@ class Solution {
             if (s.charAt(i-1) == s.charAt(i)) {
                 c++;
             } else {
-                ans.append(s.substring(cc, c != 0? i - c + 1 : i));//ans += (c - 1);
+                if(c!=0) ans.append(s.substring(cc, i - c + 1));
+                else ans.append(s.charAt(i-1));
                 c = 0;
                 cc = i;
             }
