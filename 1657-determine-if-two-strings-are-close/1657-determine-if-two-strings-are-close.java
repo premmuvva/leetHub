@@ -12,9 +12,9 @@ class Solution {
         }
         Arrays.sort(c);
         Arrays.sort(c1);
-        for (int i = 1; i < 130; i++) {
-             if (c[i] != c1[i]) return false;
-        }
-        return true;
+        return Arrays.equals(c, c1);
+        // for (int i = 1; i < 130; i++) 
+        //      if (c[i] != c1[i]) return false;
+        // return true;
     }
 }
