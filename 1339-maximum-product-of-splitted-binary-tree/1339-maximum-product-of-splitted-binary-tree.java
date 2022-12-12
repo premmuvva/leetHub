@@ -30,7 +30,7 @@ class Solution {
     
     private int calcSum(TreeNode root) {
         if (root == null) return 0;
-        // root.val += (calcSum(root.left) + calcSum(root.right));
-        return root.val += (calcSum(root.left) + calcSum(root.right));
+        root.val += (calcSum(root.left) + calcSum(root.right));
+        return root.val;
     }
 }
