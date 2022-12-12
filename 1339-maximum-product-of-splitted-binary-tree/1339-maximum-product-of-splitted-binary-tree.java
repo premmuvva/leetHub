@@ -28,9 +28,9 @@ class Solution {
         return ans;
     }
     
-    private long calcSum(TreeNode root) {
+    private int calcSum(TreeNode root) {
         if (root == null) return 0;
-        root.val += (calcSum(root.left) + calcSum(root.right));
-        return root.val;
+        // root.val += (calcSum(root.left) + calcSum(root.right));
+        return root.val += (calcSum(root.left) + calcSum(root.right));
     }
 }
