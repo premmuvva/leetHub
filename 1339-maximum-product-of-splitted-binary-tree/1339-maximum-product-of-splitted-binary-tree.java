@@ -23,8 +23,8 @@ class Solution {
     private long solve(long sum, TreeNode root) {
         if (root == null) return 0;
         long ans = (root.val * (sum - root.val)) ;
-        if (root.left != null) ans = Math.max(ans, solve(sum, root.left));
-        if (root.right != null) ans = Math.max(ans, solve(sum, root.right));
+        ans = Math.max(ans, solve(sum, root.left));
+        ans = Math.max(ans, solve(sum, root.right));
         return ans;
     }
     
