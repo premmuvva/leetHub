@@ -3,15 +3,16 @@ class Solution {
         int [] ans = new int[mat.length * mat[0].length];
         int co = 0;
         for (int i = 0; i < 2 * Math.max(mat.length, mat[0].length); i++) {
-            
-            for (int j = 0; j <= i; j++) {
-                if (mat.length > i-j && mat[0].length > (j)) {
+            int temp1 = Math.min(i, mat[0].length - 1);
+            for (int j = 0; j <= temp1; j++) {
+                if (mat.length > i-j) {
                     ans[co++] = mat[i-j][j];
                 } 
             }
             i++;
-            for (int j = 0; j <= i; j++) {
-                if (mat.length > j && mat[0].length > (i - j)) {
+            temp1 = Math.min(i, mat.length - 1);
+            for (int j = 0; j <= temp1; j++) {
+                if (mat[0].length > (i - j)) {
                     ans[co++] = mat[j][i-j];
                 } 
             }
