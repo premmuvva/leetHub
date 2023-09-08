@@ -13,7 +13,7 @@ class Solution {
                 temp = i + hm.get(l2e);
                 if (ans > temp) {
                     ans = temp;
-                    strans = new ArrayList();
+                    strans.clear();
                     strans.add(l2e);
                 } else if (ans == temp) strans.add(l2e);
             }
