@@ -9,6 +9,6 @@ class Solution {
                 if(i == s.length()) return true;        
             }
         }
-        return i == s.length();
+        return false;
     }
 }
