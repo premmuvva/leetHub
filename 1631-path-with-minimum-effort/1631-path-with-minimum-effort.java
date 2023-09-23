@@ -1,15 +1,4 @@
 class Solution {
-    // public class Node {
-    //     int i, j;
-    //     public Node(int i , int j) {
-    //         this.i = i;
-    //         this.j = j;
-    //     }
-    //     @Override
-    //     public boolean equals(Node b) {
-    //         return this.i == b.i && this.j == b.j;
-    //     }
-    // }
     private int[] x = new int[]{0, 1, -1 ,0};
     private int[] y = new int[]{1, 0, 0, -1};
     
@@ -41,18 +30,4 @@ class Solution {
         }
         return dp[m-1][n-1];
     }
-    
-//     private void remove(Map<Integer, List<Node>> nd, Map<Node, Integer> hm, Node n) {
-//         int get = hm.get(n);
-//         nd.get(get).remove(n);
-//         if(nd.get(get).size() == 0) nd.remove(get);
-//         hm.remove(n);
-//     }
-    
-//     private void add(Map<Integer, List<Node>> nd, Map<Node, Integer> hm, Node n, int ans) {
-//         int get = hm.get(n);
-//         nd.get(get).remove(n);
-//         if(nd.get(get).size() == 0) nd.remove(get);
-//         hm.remove(n);
-//     }
 }
