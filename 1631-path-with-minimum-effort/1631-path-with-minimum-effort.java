@@ -1,10 +1,11 @@
 class Solution {
-    private int[] x = new int[]{0, 1, -1 ,0};
-    private int[] y = new int[]{1, 0, 0, -1};
     
-    private int dp[][] = new int[105][105];
     public int minimumEffortPath(int[][] heights) {
         int m = heights.length, n = heights[0].length;
+        int[] x = new int[]{0, 1, -1 ,0};
+        int[] y = new int[]{1, 0, 0, -1};
+    
+        int dp[][] = new int[m][n];
         PriorityQueue<int[]> pq = new PriorityQueue<int[]>((a, b) -> Integer.compare(a[0], b[0]));
         for (int i = 0; i < m; i++) {
             Arrays.fill(dp[i], Integer.MAX_VALUE);
