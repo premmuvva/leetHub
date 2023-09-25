@@ -1,7 +1,6 @@
 class Solution {
     public int minOperations(int[] nums, int x) {
         Map<Integer, Integer> hm = new HashMap();
-        Map<Integer, Integer> bhm = new HashMap();
         int ls = 0, rs = 0, ans = Integer.MAX_VALUE, temp;
         hm.put(0,-1);
         for (int i = 0; i< nums.length && ls <= x; i++) {
