@@ -2,14 +2,14 @@ class Solution {
     public boolean isMonotonic(int[] nums) {
         if (nums.length <= 2) return true;
         boolean temp = false, flag = false;
-        System.out.println(true^false);
-        for(int i = 1; i<nums.length; i++) {
+        int i = 1;
+        while(i<nums.length && nums[i-1] == nums[i]) i++;
+        if(i== nums.length) return true;
+        temp = nums[i-1] > nums[i];
+        // System.out.println(true^false);
+        for(; i<nums.length; i++) {
             if(nums[i-1] == nums[i]) continue;
-            if (!flag) {
-                flag = true;
-                temp = nums[i-1] > nums[i];
-            }
-            if(flag && temp ^ (nums[i-1] > nums[i])) return false;
+            if(temp ^ (nums[i-1] > nums[i])) return false;
         }
         return true;
     }
