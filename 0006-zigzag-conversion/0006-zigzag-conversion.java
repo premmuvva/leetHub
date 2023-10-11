@@ -10,12 +10,10 @@ class Solution {
             while(temp < si) {
                 ans.append(s.charAt(temp));
                 if (flag && (numRows - i) != 0) temp += (2 * (numRows - i));
-                else if(i != 1) temp+= (2 * i - 2);
+                else if (i != 1) temp+= (2 * i - 2);
                 else temp += (2 * numRows - 2);
-                // System.out.printf("%d ",temp);
                 flag = !flag;
             }
-            // System.out.println();
         }
         return ans.toString();
     }
