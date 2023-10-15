@@ -1,6 +1,3 @@
-
-import java.math.BigInteger;
-
 class Solution {
     public int[][] constructProductMatrix(int[][] grid) {
         int m = grid.length, n = grid[0].length;
