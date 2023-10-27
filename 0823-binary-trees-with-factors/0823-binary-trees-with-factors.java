@@ -9,8 +9,8 @@ class Solution {
             sum = 1;
             for (int j = 0; j<i; j++) {
                 temp = arr[i]/arr[j];
-                if (arr[i] % arr[j] == 0 && hm.containsKey(temp)) {
-                    sum += hm.get(temp) * hm.get(arr[j]);
+                if (arr[i] % arr[j] == 0) {
+                    sum += hm.getOrDefault(temp, 0L) * hm.get(arr[j]);
                 }
             }
             ans += sum;
