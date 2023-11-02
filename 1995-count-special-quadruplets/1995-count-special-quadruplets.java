@@ -1,11 +1,11 @@
 class Solution {
     public int countQuadruplets(int[] nums) {
-        int ans = 0, len = nums.length;
-        for (int i = 0; i< len - 3; i++) {
-            for (int j = i+1; j< len - 2;j ++){
-                for (int k = j+1; k < len - 1; k++) {
-                    for (int l = k + 1; l < len; l++) {
-                        if (nums[i] + nums[j] + nums[k] == nums[l]) ans++;
+        int n = nums.length, ans = 0;
+        for(int i = 0; i<n; i++) {
+            for (int j = i+1; j<n; j++) {
+                for(int k = j+1; k<n; k++) {
+                    for(int l = k+1; l<n; l++) {
+                        if(nums[i] + nums[j] + nums[k] == nums[l]) ans++;
                     }
                 }
             }
