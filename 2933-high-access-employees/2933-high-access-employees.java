@@ -7,7 +7,7 @@ class Solution {
             hm.get(en.get(0)).add((n/100)*60 + (n%100));
         }
         List<String> ans = new ArrayList();
-        int temp[] = new int[100], i;
+        int i;
         for(Map.Entry<String, List<Integer>> en: hm.entrySet()) {
             i = 0;
             List<Integer> val = en.getValue();
