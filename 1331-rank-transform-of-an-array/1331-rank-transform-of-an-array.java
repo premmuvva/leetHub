@@ -8,7 +8,6 @@ class Solution {
         }
         int i = 1;
         for (Map.Entry<Integer, List<Integer>> entry: hm.entrySet()) {
-            // arr[entry.getValue() - 1] = i++;
             for(int ii : entry.getValue()) {
                 arr[ii - 1] = i;
             }
