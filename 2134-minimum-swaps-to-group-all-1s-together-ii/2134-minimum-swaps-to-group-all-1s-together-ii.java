@@ -6,13 +6,13 @@ class Solution {
         }
         
         for (i = 0; i < n1; i++) {
-            if (nums[i] == 1) t1++;
+            t1+=nums[i];
         }
         max1 = t1;
         
         for (i = n1; i < n + n1; i++) {
-            if (nums[i%n] == 1) t1++;
-            if (nums[(i-n1) % n] == 1) t1--;
+            t1+=nums[i%n];
+            t1-=nums[(i-n1) % n];
             max1 = Math.max(max1, t1);
         }
         
