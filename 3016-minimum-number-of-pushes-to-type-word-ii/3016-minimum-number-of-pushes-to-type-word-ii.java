@@ -6,8 +6,8 @@ class Solution {
         }
         Arrays.sort(hm);
         int i = 26, ans = 0;
-        for (; i >= 19; i--) {
-            ans += hm[i];
+        while (i >= 19) {
+            ans += hm[i--];
         }
         for (; i >= 11; i--) {
             ans += (hm[i] * 2);
