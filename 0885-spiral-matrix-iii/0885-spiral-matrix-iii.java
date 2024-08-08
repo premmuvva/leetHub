@@ -16,9 +16,9 @@ class Solution {
                     r += directions[d][0];
                     c += directions[d][1];
                 }
-                if (result.size() == totalCells) {
-                    return result.stream().limit(totalCells).collect(Collectors.toList()).toArray(new int[totalCells][2]);
-                }
+                // if (result.size() == totalCells) {
+                //     return result.stream().limit(totalCells).collect(Collectors.toList()).toArray(new int[totalCells][2]);
+                // }
                 d = (d + 1) % 4;
             }
             numSteps++;
