@@ -13,18 +13,18 @@ class Solution {
                     if (0 <= r && r < rows && 0 <= c && c < cols) {
                         result.add(new int[]{r, c});
                     }
-                    if (result.size() == totalCells) {
-                        return convertListToArray(result);
-                    }
                     r += directions[d][0];
                     c += directions[d][1];
+                }
+                if (result.size() == totalCells) {
+                    return result.stream().limit(totalCells).collect(Collectors.toList()).toArray(new int[totalCells][2]);
                 }
                 d = (d + 1) % 4;
             }
             numSteps++;
         }
 
-        return convertListToArray(result);
+        return result.stream().limit(totalCells).collect(Collectors.toList()).toArray(new int[totalCells][2]);
     }
 
     private int[][] convertListToArray(List<int[]> list) {
@@ -33,13 +33,5 @@ class Solution {
             array[i] = list.get(i);
         }
         return array;
-    }
-
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        int[][] result = solution.spiralMatrixIII(5, 6, 1, 4);
-        for (int[] coords : result) {
-            System.out.println(Arrays.toString(coords));
-        }
     }
 }
