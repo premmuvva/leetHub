@@ -17,20 +17,16 @@ class Solution {
             
             childNodes.add(v);
         }
-        Integer rootNode = 0;
         int [] size = new int[allNodes.size()], ans = new int[allNodes.size()];
-        // System.out.println(nodeMap);
         
-        countNodes(nodeMap, rootNode, -1, size, ans);
-        // System.out.println(Arrays.toString(ans));
-        // System.out.println(Arrays.toString(size));
+        countNodes(nodeMap, 0, -1, size, ans);
         return ans[0];
     }
 
     private void countNodes(Map<Integer, List<Integer>> nodeMap, Integer root, int parent, int [] size, int[] ans) {
         size[root] = 1;
-        if (nodeMap.get(root) == null || nodeMap.get(root).size() == 0) {
-            ans[0]++;
+        if (nodeMap.get(root) == null) {
+            // ans[0]++;
             return;
         }
         List<Integer> childSizes = new ArrayList<>();
@@ -42,8 +38,6 @@ class Solution {
             size[root] += size[child];
             childSizes.add(size[child]);
         }
-        // System.out.println(root);
-        // System.out.println(childSizes);
         size[root]++;
         if (childSizes.size() > 0) {
             int firstChildSize = childSizes.get(0);
