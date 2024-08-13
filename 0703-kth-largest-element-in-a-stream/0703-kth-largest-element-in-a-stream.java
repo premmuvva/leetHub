@@ -17,9 +17,9 @@ class KthLargest {
                 pq.poll();
             }
         }
-        while(pq.size() > k) {
-            pq.poll();
-        }
+        // while(pq.size() > k) {
+        //     pq.poll();
+        // }
     }
     
     public int add(int val) {
