@@ -22,24 +22,17 @@ class Solution {
                 head.val = list1.val;
                 list1 = list1.next;
             }
-            head.next = new ListNode();
-            head = head.next;
-        }
-        while (list1 != null) {
-            head.val = list1.val;
-            list1 = list1.next;
             pre = head;
             head.next = new ListNode();
             head = head.next;
         }
-        while (list2 != null) { 
-            head.val = list2.val;
-            list2 = list2.next;
-            pre = head;
-            head.next = new ListNode();
-            head = head.next;
+        if (list1 != null) {
+            pre.next = list1;
         }
-        pre.next = null;
+        if (list2 != null) { 
+            pre.next = list2;
+        }
+        // pre.next = null;
         return ans;
     }
 }
