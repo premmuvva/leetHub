@@ -1,5 +1,6 @@
 class Solution {
     public double maxProbability(int n, int[][] edges, double[] succProb, int start_node, int end_node) {
+//         TO MY FUTURE SELF: Dikjstra's algo
         Map<Integer, List<Integer[]>> hm = new HashMap();
         for (int i = 0; i<edges.length; i++) {
             int ar[] = edges[i];
@@ -15,7 +16,6 @@ class Solution {
         while(!pq.isEmpty()) {
             temp = pq.poll();
             if ((int)temp[1] == end_node) return temp[0];
-            // System.out.println(temp[1]);
             if (!hm.containsKey((int) temp[1])) continue;
             for (Integer[] arr: hm.get((int)temp[1])) {
                 prod = temp[0] * succProb[arr[0]];
