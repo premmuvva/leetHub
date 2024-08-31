@@ -28,20 +28,4 @@ class Solution {
         
         return pro.containsKey(end_node) ? pro.get(end_node): 0.00;
     }
-    
-    double rec(Map<Integer, List<Integer[]>> hm , boolean[] vis, int st, int en, double[] succProb) {
-        if (st == en) {
-            return 1;
-        }
-        double ans = 0.0;
-        if (!hm.containsKey(st)) return ans;
-        for (Integer[] i : hm.get(st)) {
-            if (vis[i[1]]) continue;
-            vis[i[1]] = true;
-            ans = Math.max(ans, succProb[i[0]] * rec(hm, vis, i[1], en, succProb));
-            vis[i[1]] = false;
-        }
-        // System.out.printf("%d %d %f\n", st, en, ans);
-        return ans;
-    }
 }
