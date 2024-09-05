@@ -8,21 +8,22 @@ class Solution {
   private String[] template;
   private String[] board;
   public List<List<String>> solveNQueens(int n) {
-    return new AbstractList<List<String>>() {
-      private List<List<String>> cache = null;
-      @Override
-      public List<String> get(int index) {
-        if (cache == null) 
+    // return new AbstractList<List<String>>() {
+      List<List<String>> cache = null;
+      // @Override
+      // public List<String> get(int index) {
+        // if (cache == null) 
         cache = solveNQueens1(n);
-        return cache.get(index);
-      }
-      @Override
-      public int size() {
-        if (cache == null) 
-        cache = solveNQueens1(n);
-        return cache.size();
-      }
-    };
+      return cache;
+      //   return cache.get(index);
+      // }
+      // @Override
+      // public int size() {
+      //   if (cache == null) 
+      //   cache = solveNQueens1(n);
+      //   return cache.size();
+      // }
+    // };
   }
   public List<List<String>> solveNQueens1(int n) {
     this.n = n;
@@ -41,6 +42,7 @@ class Solution {
   }
   private void enumerateRow(int i, int shadow0, int shadow1, int shadow2) {
     int shadowSum = shadow0 | shadow1 | shadow2;
+    // System.out.printf("%s %s %s \n", Integer.toBinaryString((int)shadow0), Integer.toBinaryString((int)shadow1), Integer.toBinaryString((int)shadow2));
     for (int j = 0; j < n; j++) {
       int cell = 1 << j;
       if ((shadowSum & cell) == 0) {
