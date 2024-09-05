@@ -9,7 +9,7 @@ class Solution {
     private void rec(int n, int[] r, int[] c, int[] d,int[] d2, int i, List<String> cur, Set<List<String>> ans) {
         if (cur.size() == n) {
             ans.add(new ArrayList(cur));
-            System.out.println(Arrays.toString(d2));
+            // System.out.println(Arrays.toString(d2));
             return;
         }
         if (i == n) return;
