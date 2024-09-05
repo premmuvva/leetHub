@@ -6,8 +6,12 @@ class Solution {
         int r[] = new int[n], c[] = new int[n], d1[] = new int[2*n + 2], d2[] = new int[2*n + 2];
         Set<List<String>> ans = new HashSet();
         template = new String[n];
-        for (int i = 0; i<n; i++) {
-            template[i] = ".".repeat(i) + 'Q' + ".".repeat(n-i-1);
+        char[] line = new char[n];
+        Arrays.fill(line, '.');
+        for (int i = 0; i < n; i++) {
+          line[i] = 'Q';
+          template[i] = String.valueOf(line);
+          line[i] = '.';
         }
         rec(n, r, c, d1, d2, 0, new ArrayList(), ans);
         return ans.stream().toList();
