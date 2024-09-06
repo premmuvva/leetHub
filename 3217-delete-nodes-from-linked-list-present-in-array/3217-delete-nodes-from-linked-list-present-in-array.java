@@ -17,14 +17,13 @@ class Solution {
             head = head.next;
         }
         if (head == null) return null;
-        ListNode cur = head.next, pre = head;
-        while(cur != null) {
-            if (!hs.contains(cur.val)) {
-                pre = cur;
+        ListNode cur = head;
+        while(cur.next != null) {
+            if (!hs.contains(cur.next.val)) {
+                cur = cur.next;
             } else {
-                pre.next = cur.next;
+                cur.next = cur.next.next;
             }
-            cur = cur.next;
         }
         return head;
             
