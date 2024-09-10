@@ -11,8 +11,8 @@ class Solution {
                 ans.append(-rem);
             } else ans.append(rem);
             n = n / -2;
-            
         }
+        System.gc();
         return ans.reverse().toString();
     }
 }
