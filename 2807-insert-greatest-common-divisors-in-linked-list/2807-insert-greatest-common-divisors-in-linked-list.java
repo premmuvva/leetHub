@@ -18,6 +18,7 @@ class Solution {
             cur.next = temp;
             cur = temp.next;
         }
+        System.gc();
         return head;
     }
     
