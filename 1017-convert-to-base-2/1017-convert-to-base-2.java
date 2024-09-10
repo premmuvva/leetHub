@@ -8,8 +8,8 @@ class Solution {
             rem = n % 2;
             if (n < 0) n--;
             n = n / -2;
-            ans.insert(0, Math.abs(rem));
+            ans.append(Math.abs(rem));
         }
-        return ans.toString();
+        return ans.reverse().toString();
     }
 }
