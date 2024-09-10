@@ -3,13 +3,13 @@ class Solution {
         
         if (n == 0) return "0";
         int rem = 0;
-        String ans = "";
+        StringBuilder ans = new StringBuilder();
         while(n != 0) {
             rem = n % 2;
             if (n < 0) n--;
             n = n / -2;
-            ans = Math.abs(rem) + ans;
+            ans.insert(0, Math.abs(rem));
         }
-        return ans;
+        return ans.toString();
     }
 }
