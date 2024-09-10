@@ -6,9 +6,12 @@ class Solution {
         StringBuilder ans = new StringBuilder();
         while(n != 0) {
             rem = n % 2;
-            if (n < 0) n--;
+            if (n < 0) {
+                n--;
+                ans.append(-rem);
+            } else ans.append(rem);
             n = n / -2;
-            ans.append(Math.abs(rem));
+            
         }
         return ans.reverse().toString();
     }
