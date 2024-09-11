@@ -3,8 +3,8 @@ class Solution {
         int ans = 0;
         start ^= goal;
         while(start > 0) {
-            ans += (start & 1);
-            start = start >> 1;
+            ans ++;
+            start = (start - 1) & start;
         }
         return ans;
     }
