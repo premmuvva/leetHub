@@ -5,7 +5,7 @@ class Solution {
         for (String str : timePoints) {
             arr[i++] = Integer.parseInt(str.substring(0, 2)) * 60 + Integer.parseInt(str.substring(3,5));
         }
-        System.out.println(Arrays.toString(arr));
+        // System.out.println(Arrays.toString(arr));
         Arrays.sort(arr);
         int temp, val= 24 * 60;
         for (i = 1; i < n; i++) {
