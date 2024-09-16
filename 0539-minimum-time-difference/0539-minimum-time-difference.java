@@ -3,7 +3,7 @@ class Solution {
         int n = timePoints.size(),i = 0, ans = Integer.MAX_VALUE;
         int arr[] = new int[n];
         for (String str : timePoints) {
-            arr[i++] = Integer.parseInt(str.substring(0, 2)) * 60 + Integer.parseInt(str.substring(3,5));
+            arr[i++] = str.charAt(0) * 600 + str.charAt(1) * 60 + str.charAt(3) * 10 + str.charAt(4);
         }
         // System.out.println(Arrays.toString(arr));
         Arrays.sort(arr);
