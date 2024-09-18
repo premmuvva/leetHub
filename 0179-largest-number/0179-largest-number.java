@@ -47,6 +47,8 @@ class Solution {
         // System.out.printf("%d %d %d %d\n", a, b, ac, bc);
         ta = (long)a * bc + b;
         tb = (long)b * ac + a;
-        return ta == tb ? (a > b ? 1 : -1) : (ta > tb ? 1 : -1);
+        if (ta > tb) return 1;
+        if (ta < tb) return -1;
+        return a > b ? 1 : -1;
     }
 }
