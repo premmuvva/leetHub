@@ -4,21 +4,10 @@ class Solution {
             // .peek(System.out::println)
             .mapToObj(i -> String.valueOf(i))
             .sorted((b, a) -> compareTo(a, b))
-            .reduce("", String::concat);
-        
-            // .toArray(String[]::new);
-        
-            // .peek(System.out::println)
-            // 
-            // .peek(System.out::println)
-            // ;
-            // .toArray();
-        // Arrays.sort(arr, new Comparator<Integer>() {
-        //     public int compare(Integer a, Integer b) {
-        //         return String.valueOf(a).compareTo(String.valueOf(b));
-        //     }
-        // });
-        // System.out.println(Arrays.toString(ans));
+            .collect(Collectors.joining());
+            // .reduce(new StringBuilder(), (acc, str) -> acc.append(str.charAt(0)), (sb1, sb2) -> sb1.append(sb2))
+            // .toString();
+            // .map(StringBuilder::toString);        
         return ans.charAt(0) == '0' ? "0": ans;
     }
     
