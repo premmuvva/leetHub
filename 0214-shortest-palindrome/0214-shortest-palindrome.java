@@ -6,18 +6,14 @@ class Solution {
         n++;
         int dp[] = new int[n];
         while(j< n) {
+            while(i != 0 && str.charAt(i) != str.charAt(j)) {
+                i = i > 0 ? dp[i-1] : 0;
+            }
             if (str.charAt(i) == str.charAt(j)) {
                 dp[j] = i + 1;
                 i++;
             } else {
-                while(i != 0 && str.charAt(i) != str.charAt(j)) {
-                    i = i > 0 ? dp[i-1] : 0;
-                }
-                if (str.charAt(i) == str.charAt(j)) {
-                    dp[j] = i + 1;
-                    i++;
-                }
-                else dp[j] = dp[i];
+                dp[j] = dp[i];
             }
             j++;
         }
