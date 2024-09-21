@@ -19,6 +19,6 @@ class Solution {
         }
         // System.out.println(str);
         // System.out.println(Arrays.toString(dp));
-        return (new StringBuffer(s.substring(dp[n-1]))).reverse().toString() + s;
+        return (new StringBuilder(s.substring(dp[n-1]))).reverse().append(s).toString();
     }
 }
