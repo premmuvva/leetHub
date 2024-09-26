@@ -4,6 +4,7 @@ class Solution {
         Arrays.sort(nums);
         // System.out.println(Arrays.toString(nums));
         List<List<Integer>> ans = new ArrayList();
+        if (nums[n-1] < 0) return ans;
         for(; i<n; i++) {
             if (nums[i] > 0) break;
             j = i + 1;
