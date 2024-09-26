@@ -9,6 +9,7 @@ class Solution {
             j = i + 1;
             k = n-1;
             while(j < k) {
+                if (nums[i] + nums[j] > 0) break;
                 int sum = nums[j] + nums[i] + nums[k];
                 if (sum == 0) {
                     ans.add(List.of(nums[i], nums[j], nums[k]));
