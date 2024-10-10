@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0317-shortest-distance-from-all-buildings](https://github.com/premmuvva/leetHub/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0560-subarray-sum-equals-k](https://github.com/premmuvva/leetHub/tree/master/0560-subarray-sum-equals-k) |
+| [1002-maximum-width-ramp](https://github.com/premmuvva/leetHub/tree/master/1002-maximum-width-ramp) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -24,4 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/premmuvva/leetHub/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/premmuvva/leetHub/tree/master/1002-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/premmuvva/leetHub/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
