@@ -10,15 +10,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/premmuvva/leetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/premmuvva/leetHub/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/premmuvva/leetHub/tree/master/1002-maximum-width-ramp) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/premmuvva/leetHub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/premmuvva/leetHub/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0317-shortest-distance-from-all-buildings](https://github.com/premmuvva/leetHub/tree/master/0317-shortest-distance-from-all-buildings) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/premmuvva/leetHub/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0317-shortest-distance-from-all-buildings](https://github.com/premmuvva/leetHub/tree/master/0317-shortest-distance-from-all-buildings) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/premmuvva/leetHub/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
