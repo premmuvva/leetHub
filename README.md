@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/premmuvva/leetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/premmuvva/leetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/premmuvva/leetHub/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/premmuvva/leetHub/tree/master/3195-separate-black-and-white-balls) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/premmuvva/leetHub/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 ## Sorting
 |  |
@@ -111,10 +112,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1919-sort-features-by-popularity](https://github.com/premmuvva/leetHub/tree/master/1919-sort-features-by-popularity) |
+| [3195-separate-black-and-white-balls](https://github.com/premmuvva/leetHub/tree/master/3195-separate-black-and-white-balls) |
 ## Two Pointers
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/premmuvva/leetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3195-separate-black-and-white-balls](https://github.com/premmuvva/leetHub/tree/master/3195-separate-black-and-white-balls) |
 ## Trie
 |  |
 | ------- |
