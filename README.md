@@ -122,4 +122,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/premmuvva/leetHub/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Math
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/premmuvva/leetHub/tree/master/3199-distribute-candies-among-children-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/premmuvva/leetHub/tree/master/3199-distribute-candies-among-children-i) |
+## Enumeration
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/premmuvva/leetHub/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
