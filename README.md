@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/premmuvva/leetHub/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/premmuvva/leetHub/tree/master/1197-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/premmuvva/leetHub/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/premmuvva/leetHub/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/premmuvva/leetHub/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1919-sort-features-by-popularity](https://github.com/premmuvva/leetHub/tree/master/1919-sort-features-by-popularity) |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/premmuvva/leetHub/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/premmuvva/leetHub/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/premmuvva/leetHub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
