@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0317-shortest-distance-from-all-buildings](https://github.com/premmuvva/leetHub/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0339-nested-list-weight-sum](https://github.com/premmuvva/leetHub/tree/master/0339-nested-list-weight-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/premmuvva/leetHub/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
@@ -194,4 +195,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/premmuvva/leetHub/tree/master/3101-maximum-coins-heroes-can-collect) |
+## Depth-First Search
+|  |
+| ------- |
+| [0339-nested-list-weight-sum](https://github.com/premmuvva/leetHub/tree/master/0339-nested-list-weight-sum) |
 <!---LeetCode Topics End-->
