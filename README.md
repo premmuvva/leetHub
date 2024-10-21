@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/premmuvva/leetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/premmuvva/leetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1366-first-unique-number](https://github.com/premmuvva/leetHub/tree/master/1366-first-unique-number) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/premmuvva/leetHub/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1919-sort-features-by-popularity](https://github.com/premmuvva/leetHub/tree/master/1919-sort-features-by-popularity) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/premmuvva/leetHub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/premmuvva/leetHub/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1197-parsing-a-boolean-expression](https://github.com/premmuvva/leetHub/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/premmuvva/leetHub/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/premmuvva/leetHub/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/premmuvva/leetHub/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1919-sort-features-by-popularity](https://github.com/premmuvva/leetHub/tree/master/1919-sort-features-by-popularity) |
 | [3195-separate-black-and-white-balls](https://github.com/premmuvva/leetHub/tree/master/3195-separate-black-and-white-balls) |
 ## Two Pointers
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/premmuvva/leetHub/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/premmuvva/leetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Recursion
 |  |
