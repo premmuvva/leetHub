@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/premmuvva/leetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1366-first-unique-number](https://github.com/premmuvva/leetHub/tree/master/1366-first-unique-number) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/premmuvva/leetHub/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/premmuvva/leetHub/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1919-sort-features-by-popularity](https://github.com/premmuvva/leetHub/tree/master/1919-sort-features-by-popularity) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/premmuvva/leetHub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/premmuvva/leetHub/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/premmuvva/leetHub/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/premmuvva/leetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/premmuvva/leetHub/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3195-separate-black-and-white-balls](https://github.com/premmuvva/leetHub/tree/master/3195-separate-black-and-white-balls) |
@@ -199,4 +201,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0339-nested-list-weight-sum](https://github.com/premmuvva/leetHub/tree/master/0339-nested-list-weight-sum) |
+## Tree
+|  |
+| ------- |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/premmuvva/leetHub/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+## Binary Tree
+|  |
+| ------- |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/premmuvva/leetHub/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 <!---LeetCode Topics End-->
