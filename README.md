@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/premmuvva/leetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/premmuvva/leetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/premmuvva/leetHub/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3101-maximum-coins-heroes-can-collect](https://github.com/premmuvva/leetHub/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/premmuvva/leetHub/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/premmuvva/leetHub/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 ## Breadth-First Search
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/premmuvva/leetHub/tree/master/0560-subarray-sum-equals-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/premmuvva/leetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3101-maximum-coins-heroes-can-collect](https://github.com/premmuvva/leetHub/tree/master/3101-maximum-coins-heroes-can-collect) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/premmuvva/leetHub/tree/master/0948-sort-an-array) |
 | [1919-sort-features-by-popularity](https://github.com/premmuvva/leetHub/tree/master/1919-sort-features-by-popularity) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/premmuvva/leetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3101-maximum-coins-heroes-can-collect](https://github.com/premmuvva/leetHub/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/premmuvva/leetHub/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 ## Divide and Conquer
 |  |
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/premmuvva/leetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3101-maximum-coins-heroes-can-collect](https://github.com/premmuvva/leetHub/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3195-separate-black-and-white-balls](https://github.com/premmuvva/leetHub/tree/master/3195-separate-black-and-white-balls) |
 ## Trie
 |  |
@@ -186,4 +190,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1366-first-unique-number](https://github.com/premmuvva/leetHub/tree/master/1366-first-unique-number) |
+## Binary Search
+|  |
+| ------- |
+| [3101-maximum-coins-heroes-can-collect](https://github.com/premmuvva/leetHub/tree/master/3101-maximum-coins-heroes-can-collect) |
 <!---LeetCode Topics End-->
