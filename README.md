@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/premmuvva/leetHub/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/premmuvva/leetHub/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0339-nested-list-weight-sum](https://github.com/premmuvva/leetHub/tree/master/0339-nested-list-weight-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/premmuvva/leetHub/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/premmuvva/leetHub/tree/master/0217-contains-duplicate) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/premmuvva/leetHub/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0560-subarray-sum-equals-k](https://github.com/premmuvva/leetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/premmuvva/leetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1366-first-unique-number](https://github.com/premmuvva/leetHub/tree/master/1366-first-unique-number) |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/premmuvva/leetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/premmuvva/leetHub/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/premmuvva/leetHub/tree/master/0252-meeting-rooms) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/premmuvva/leetHub/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/premmuvva/leetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/premmuvva/leetHub/tree/master/0948-sort-an-array) |
 | [1919-sort-features-by-popularity](https://github.com/premmuvva/leetHub/tree/master/1919-sort-features-by-popularity) |
@@ -200,13 +203,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/premmuvva/leetHub/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/premmuvva/leetHub/tree/master/0339-nested-list-weight-sum) |
 ## Tree
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/premmuvva/leetHub/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/premmuvva/leetHub/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/premmuvva/leetHub/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/premmuvva/leetHub/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 <!---LeetCode Topics End-->
