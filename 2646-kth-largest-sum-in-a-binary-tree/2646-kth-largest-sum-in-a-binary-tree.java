@@ -17,10 +17,11 @@ class Solution {
     public long kthLargestLevelSum(TreeNode root, int k) {
         Map<Integer, Long> hm = new HashMap();
         rec(root, 0, hm);
-        List<Long> li = hm.values().stream().sorted((a, b) -> Long.compare(b, a))
-            .collect(Collectors.toList());
+        if (hm.size() < k) return -1;
+        List<Long> li = new ArrayList(hm.values());
+        Collections.sort(li, Collections.reverseOrder());
         // System.out.println(li);
-        return hm.size() < k ? -1 : li.get(k-1);
+        return li.get(k-1);
     }
 
     void rec(TreeNode root, int h, Map<Integer, Long> hm) {
