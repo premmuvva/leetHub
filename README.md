@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0339-nested-list-weight-sum](https://github.com/premmuvva/leetHub/tree/master/0339-nested-list-weight-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/premmuvva/leetHub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/premmuvva/leetHub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/premmuvva/leetHub/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/premmuvva/leetHub/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1919-sort-features-by-popularity](https://github.com/premmuvva/leetHub/tree/master/1919-sort-features-by-popularity) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/premmuvva/leetHub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/premmuvva/leetHub/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/premmuvva/leetHub/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Prefix Sum
 |  |
@@ -213,16 +215,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/premmuvva/leetHub/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/premmuvva/leetHub/tree/master/0339-nested-list-weight-sum) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/premmuvva/leetHub/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Tree
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/premmuvva/leetHub/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/premmuvva/leetHub/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/premmuvva/leetHub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/premmuvva/leetHub/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/premmuvva/leetHub/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/premmuvva/leetHub/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/premmuvva/leetHub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/premmuvva/leetHub/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
