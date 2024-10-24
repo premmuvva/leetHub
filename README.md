@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/premmuvva/leetHub/tree/master/0031-next-permutation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/premmuvva/leetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/premmuvva/leetHub/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/premmuvva/leetHub/tree/master/0252-meeting-rooms) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/premmuvva/leetHub/tree/master/0031-next-permutation) |
 | [1028-interval-list-intersections](https://github.com/premmuvva/leetHub/tree/master/1028-interval-list-intersections) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/premmuvva/leetHub/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/premmuvva/leetHub/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
