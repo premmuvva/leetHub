@@ -217,11 +217,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/premmuvva/leetHub/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/premmuvva/leetHub/tree/master/0339-nested-list-weight-sum) |
+| [0988-flip-equivalent-binary-trees](https://github.com/premmuvva/leetHub/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/premmuvva/leetHub/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Tree
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/premmuvva/leetHub/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/premmuvva/leetHub/tree/master/0988-flip-equivalent-binary-trees) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/premmuvva/leetHub/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/premmuvva/leetHub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/premmuvva/leetHub/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/premmuvva/leetHub/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/premmuvva/leetHub/tree/master/0988-flip-equivalent-binary-trees) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/premmuvva/leetHub/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/premmuvva/leetHub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/premmuvva/leetHub/tree/master/2677-cousins-in-binary-tree-ii) |
