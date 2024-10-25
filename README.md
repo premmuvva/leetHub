@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/premmuvva/leetHub/tree/master/0031-next-permutation) |
+| [0056-merge-intervals](https://github.com/premmuvva/leetHub/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/premmuvva/leetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/premmuvva/leetHub/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/premmuvva/leetHub/tree/master/0252-meeting-rooms) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/premmuvva/leetHub/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/premmuvva/leetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/premmuvva/leetHub/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/premmuvva/leetHub/tree/master/0252-meeting-rooms) |
