@@ -12,7 +12,6 @@ class LRUCache {
     }
     
     public int get(int key) {
-        // System.out.println(hm);
         int ans = hm.getOrDefault(key, -1);
         if (ans != -1) {
             hm.remove(key);
@@ -26,9 +25,6 @@ class LRUCache {
             hm.remove(key);
         }
         hm.put(key, value);
-        // if (hm.size() > n) {
-        //     hm.remove();
-        // }
     }
 }
 
