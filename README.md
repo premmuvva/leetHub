@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/premmuvva/leetHub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/premmuvva/leetHub/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1366-first-unique-number](https://github.com/premmuvva/leetHub/tree/master/1366-first-unique-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/premmuvva/leetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/premmuvva/leetHub/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1919-sort-features-by-popularity](https://github.com/premmuvva/leetHub/tree/master/1919-sort-features-by-popularity) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/premmuvva/leetHub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0317-shortest-distance-from-all-buildings](https://github.com/premmuvva/leetHub/tree/master/0317-shortest-distance-from-all-buildings) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/premmuvva/leetHub/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/premmuvva/leetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -267,4 +269,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/premmuvva/leetHub/tree/master/0146-lru-cache) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/premmuvva/leetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
