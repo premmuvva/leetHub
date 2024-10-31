@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/premmuvva/leetHub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/premmuvva/leetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/premmuvva/leetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2554-minimum-total-distance-traveled](https://github.com/premmuvva/leetHub/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/premmuvva/leetHub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/premmuvva/leetHub/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/premmuvva/leetHub/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/premmuvva/leetHub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1919-sort-features-by-popularity](https://github.com/premmuvva/leetHub/tree/master/1919-sort-features-by-popularity) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/premmuvva/leetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2554-minimum-total-distance-traveled](https://github.com/premmuvva/leetHub/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/premmuvva/leetHub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/premmuvva/leetHub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/premmuvva/leetHub/tree/master/3101-maximum-coins-heroes-can-collect) |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/premmuvva/leetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2554-minimum-total-distance-traveled](https://github.com/premmuvva/leetHub/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/premmuvva/leetHub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/premmuvva/leetHub/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
