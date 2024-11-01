@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/premmuvva/leetHub/tree/master/0071-simplify-path) |
 | [0443-string-compression](https://github.com/premmuvva/leetHub/tree/master/0443-string-compression) |
 | [1197-parsing-a-boolean-expression](https://github.com/premmuvva/leetHub/tree/master/1197-parsing-a-boolean-expression) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/premmuvva/leetHub/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/premmuvva/leetHub/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/premmuvva/leetHub/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/premmuvva/leetHub/tree/master/1667-find-kth-bit-in-nth-binary-string) |
