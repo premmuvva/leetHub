@@ -3,9 +3,7 @@ import java.util.Random;
 class Solution {
     TreeMap<Integer, Integer> tm;
     int max, n;
-    // Random rand;
     public Solution(int[] w) {
-        // rand = new Random();
         tm = new TreeMap();
         n = w.length;
         int val = 0;
@@ -14,23 +12,10 @@ class Solution {
             tm.put(val, i);
         }
         max = val;
-        System.out.println(tm);
     }
     
     public int pickIndex() {
         double tar = Math.random() * (max);
-        // int st = 1, en = w.length-1, mid = st;
-        // while(st < en) {
-        //     mid = st + (en - st)/2;
-        //     if (w[mid] == tar) {
-        //         return mid;
-        //     } else if (w[mid] < tar) {
-        //         st = mid + 1;
-        //     } else {
-        //         en = mid - 1;
-        //     }
-        // }
-        // return st - 1;
         Map.Entry<Integer, Integer> en = tm.ceilingEntry((int)Math.ceil(tar));
         return en.getValue();
     }
