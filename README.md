@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/premmuvva/leetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/premmuvva/leetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0739-daily-temperatures](https://github.com/premmuvva/leetHub/tree/master/0739-daily-temperatures) |
+| [0912-random-pick-with-weight](https://github.com/premmuvva/leetHub/tree/master/0912-random-pick-with-weight) |
 | [0948-sort-an-array](https://github.com/premmuvva/leetHub/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/premmuvva/leetHub/tree/master/1002-maximum-width-ramp) |
 | [1028-interval-list-intersections](https://github.com/premmuvva/leetHub/tree/master/1028-interval-list-intersections) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/premmuvva/leetHub/tree/master/0560-subarray-sum-equals-k) |
+| [0912-random-pick-with-weight](https://github.com/premmuvva/leetHub/tree/master/0912-random-pick-with-weight) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/premmuvva/leetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/premmuvva/leetHub/tree/master/3101-maximum-coins-heroes-can-collect) |
 ## Stack
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/premmuvva/leetHub/tree/master/0670-maximum-swap) |
+| [0912-random-pick-with-weight](https://github.com/premmuvva/leetHub/tree/master/0912-random-pick-with-weight) |
 | [3199-distribute-candies-among-children-i](https://github.com/premmuvva/leetHub/tree/master/3199-distribute-candies-among-children-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/premmuvva/leetHub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Combinatorics
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0912-random-pick-with-weight](https://github.com/premmuvva/leetHub/tree/master/0912-random-pick-with-weight) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/premmuvva/leetHub/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/premmuvva/leetHub/tree/master/2586-longest-square-streak-in-an-array) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/premmuvva/leetHub/tree/master/3101-maximum-coins-heroes-can-collect) |
@@ -290,4 +294,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2554-minimum-total-distance-traveled](https://github.com/premmuvva/leetHub/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/premmuvva/leetHub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/premmuvva/leetHub/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/premmuvva/leetHub/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
