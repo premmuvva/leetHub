@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/premmuvva/leetHub/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/premmuvva/leetHub/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1919-sort-features-by-popularity](https://github.com/premmuvva/leetHub/tree/master/1919-sort-features-by-popularity) |
+| [2580-circular-sentence](https://github.com/premmuvva/leetHub/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/premmuvva/leetHub/tree/master/3195-separate-black-and-white-balls) |
 ## Two Pointers
 |  |
