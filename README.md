@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0071-simplify-path](https://github.com/premmuvva/leetHub/tree/master/0071-simplify-path) |
 | [0443-string-compression](https://github.com/premmuvva/leetHub/tree/master/0443-string-compression) |
+| [0812-rotate-string](https://github.com/premmuvva/leetHub/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/premmuvva/leetHub/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/premmuvva/leetHub/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/premmuvva/leetHub/tree/master/1304-longest-happy-string) |
@@ -298,4 +299,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/premmuvva/leetHub/tree/master/0912-random-pick-with-weight) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/premmuvva/leetHub/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
