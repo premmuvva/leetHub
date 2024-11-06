@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/premmuvva/leetHub/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/premmuvva/leetHub/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/premmuvva/leetHub/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/premmuvva/leetHub/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/premmuvva/leetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/premmuvva/leetHub/tree/master/0217-contains-duplicate) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/premmuvva/leetHub/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/premmuvva/leetHub/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/premmuvva/leetHub/tree/master/0217-contains-duplicate) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/premmuvva/leetHub/tree/master/0314-binary-tree-vertical-order-traversal) |
