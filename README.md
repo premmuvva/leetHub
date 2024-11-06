@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/premmuvva/leetHub/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/premmuvva/leetHub/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/premmuvva/leetHub/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3291-find-if-array-can-be-sorted](https://github.com/premmuvva/leetHub/tree/master/3291-find-if-array-can-be-sorted) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/premmuvva/leetHub/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 ## Breadth-First Search
 |  |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/premmuvva/leetHub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/premmuvva/leetHub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/premmuvva/leetHub/tree/master/3101-maximum-coins-heroes-can-collect) |
+| [3291-find-if-array-can-be-sorted](https://github.com/premmuvva/leetHub/tree/master/3291-find-if-array-can-be-sorted) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/premmuvva/leetHub/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 ## Divide and Conquer
 |  |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/premmuvva/leetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/premmuvva/leetHub/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3291-find-if-array-can-be-sorted](https://github.com/premmuvva/leetHub/tree/master/3291-find-if-array-can-be-sorted) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/premmuvva/leetHub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Backtracking
 |  |
