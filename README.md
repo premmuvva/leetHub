@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/premmuvva/leetHub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/premmuvva/leetHub/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/premmuvva/leetHub/tree/master/3291-find-if-array-can-be-sorted) |
+| [3394-minimum-array-end](https://github.com/premmuvva/leetHub/tree/master/3394-minimum-array-end) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/premmuvva/leetHub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Backtracking
 |  |
