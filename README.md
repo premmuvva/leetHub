@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/premmuvva/leetHub/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1366-first-unique-number](https://github.com/premmuvva/leetHub/tree/master/1366-first-unique-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/premmuvva/leetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/premmuvva/leetHub/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/premmuvva/leetHub/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/premmuvva/leetHub/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1919-sort-features-by-popularity](https://github.com/premmuvva/leetHub/tree/master/1919-sort-features-by-popularity) |
@@ -94,11 +95,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/premmuvva/leetHub/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/premmuvva/leetHub/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/premmuvva/leetHub/tree/master/1197-parsing-a-boolean-expression) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/premmuvva/leetHub/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/premmuvva/leetHub/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/premmuvva/leetHub/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/premmuvva/leetHub/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -197,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/premmuvva/leetHub/tree/master/0031-next-permutation) |
 | [0443-string-compression](https://github.com/premmuvva/leetHub/tree/master/0443-string-compression) |
 | [1028-interval-list-intersections](https://github.com/premmuvva/leetHub/tree/master/1028-interval-list-intersections) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/premmuvva/leetHub/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/premmuvva/leetHub/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/premmuvva/leetHub/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/premmuvva/leetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -268,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/premmuvva/leetHub/tree/master/0912-random-pick-with-weight) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/premmuvva/leetHub/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/premmuvva/leetHub/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/premmuvva/leetHub/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/premmuvva/leetHub/tree/master/2586-longest-square-streak-in-an-array) |
