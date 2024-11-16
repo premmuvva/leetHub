@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3193-maximum-strong-pair-xor-i](https://github.com/premmuvva/leetHub/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/premmuvva/leetHub/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/premmuvva/leetHub/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/premmuvva/leetHub/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/premmuvva/leetHub/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 ## Breadth-First Search
 |  |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/premmuvva/leetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/premmuvva/leetHub/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/premmuvva/leetHub/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/premmuvva/leetHub/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Quickselect
 |  |
 | ------- |
