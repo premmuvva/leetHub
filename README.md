@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/premmuvva/leetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/premmuvva/leetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0739-daily-temperatures](https://github.com/premmuvva/leetHub/tree/master/0739-daily-temperatures) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/premmuvva/leetHub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/premmuvva/leetHub/tree/master/0912-random-pick-with-weight) |
 | [0948-sort-an-array](https://github.com/premmuvva/leetHub/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/premmuvva/leetHub/tree/master/1002-maximum-width-ramp) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/premmuvva/leetHub/tree/master/0560-subarray-sum-equals-k) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/premmuvva/leetHub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/premmuvva/leetHub/tree/master/0912-random-pick-with-weight) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/premmuvva/leetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/premmuvva/leetHub/tree/master/3101-maximum-coins-heroes-can-collect) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/premmuvva/leetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/premmuvva/leetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/premmuvva/leetHub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/premmuvva/leetHub/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/premmuvva/leetHub/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/premmuvva/leetHub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/premmuvva/leetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/premmuvva/leetHub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/premmuvva/leetHub/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/premmuvva/leetHub/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/premmuvva/leetHub/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -265,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/premmuvva/leetHub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1366-first-unique-number](https://github.com/premmuvva/leetHub/tree/master/1366-first-unique-number) |
 ## Data Stream
 |  |
@@ -273,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/premmuvva/leetHub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/premmuvva/leetHub/tree/master/0912-random-pick-with-weight) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/premmuvva/leetHub/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/premmuvva/leetHub/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -338,4 +344,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/premmuvva/leetHub/tree/master/0975-range-sum-of-bst) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/premmuvva/leetHub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
